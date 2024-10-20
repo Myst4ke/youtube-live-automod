@@ -5,5 +5,9 @@ Youtube moderating software that automatically bans users depending on the sever
 These have to be rescpectively stored in `client_secret.json` and `gorgias_auth.json`.
 Any user who would want to use the app needs to be authorized through google console first (via email).
 
-The main function to run is `fetch_live_chat_messages()` which is pretty slow and can't handle huge flow of incomming messages. Demo available here [Demo of the automod running](https://www.youtube.com/watch?v=FiIUJc41p1I) (in french)
+The main function to run is `fetch_live_chat_messages()` which is pretty slow and can't handle huge flow of incomming messages. 
+
+Demo available here (in french) :
+
+[![Demo](https://img.youtube.com/vi/FiIUJc41p1I/0.jpg)](https://www.youtube.com/watch?v=FiIUJc41p1I)
 
